@@ -18,11 +18,11 @@ threshold = 0.10; % fraction (not percentage)
 %% Specify making figures (1) or not (0);
 mkFigures = 1;
 %% Identify source folders
-folder_target = '/Users/heatherwhitney/Desktop/Task-based-sampling-main/Target_Distribution/';
-folder_input = '/Users/heatherwhitney/Desktop/Task-based-sampling-main/Input_Data/';
-folder_outputTemplate = '/Users/heatherwhitney/Desktop/Task-based-sampling-main/Output_templates/';
-folder_output = '/Users/heatherwhitney/Desktop/Task-based-sampling-main/Output/';
-folder_figures = '/Users/heatherwhitney/Desktop/Task-based-sampling-main/figures/';
+folder_target = '';
+folder_input = '';
+folder_outputTemplate = '.../Task-based-sampling-main/Output_templates/';
+folder_output = '.../Task-based-sampling-main/Output/';
+folder_figures = '.../Task-based-sampling-main/figures/';
 %% Specify location of target distributions
 % change this file according to any changes you wish to make to target
 % distributions (i.e., your local population)
